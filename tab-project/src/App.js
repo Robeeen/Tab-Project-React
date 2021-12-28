@@ -31,7 +31,7 @@ function App() {
 
   return (
     <div>
-      <h2>Jobs</h2>
+      <h2>Jobs Descriptions</h2>
     </div>
   );
 }
